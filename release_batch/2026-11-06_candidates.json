@@ -1,0 +1,25 @@
+{
+  "batch_id": "2026-11-06",
+  "requested_by": "release-ops",
+  "note": "Models queued for the November release window. Evaluate every entry; do not add or skip models.",
+  "models": [
+    {
+      "repo_id": "google-bert/bert-base-uncased"
+    },
+    {
+      "repo_id": "openai-community/gpt2"
+    },
+    {
+      "repo_id": "bigscience/bloom-560m"
+    },
+    {
+      "repo_id": "facebook/opt-125m"
+    },
+    {
+      "repo_id": "google/flan-t5-small"
+    },
+    {
+      "repo_id": "EleutherAI/gpt-neo-125m"
+    }
+  ]
+}
